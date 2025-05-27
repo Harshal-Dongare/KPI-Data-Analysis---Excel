@@ -4,6 +4,8 @@
 
 An Excel-based data analysis project that evaluates key performance indicators (KPIs) for a retail or sales operation across five sales representatives (Jacob, Arnold, Naomi, David, Ariel) throughout 2023. Housed in `KPI-Project.xlsx`, it tracks monthly metrics including revenue, number of customers, new customers, customer acquisition costs (CAC), and revenue per customer, comparing actual performance against targets and previous-year data. Leveraging Excel’s data processing and visualization tools, the project provides actionable insights into sales trends, target achievement, and cost efficiency, showcasing proficiency in spreadsheet-based analytics.
 
+![](Screenshot.png)
+
 ## Dataset Description
 
 The dataset is stored in `KPI-Project.xlsx`, with a single worksheet covering Q1–Q4 2023. It includes:
