@@ -1,4 +1,4 @@
-# Exploratory Data Analysis : IPL
+# Exploratory Data Analysis for Sales Operation using Excel
 
 ## Project Overview
 
